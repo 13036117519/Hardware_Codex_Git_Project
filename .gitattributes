@@ -1,0 +1,12 @@
+# Keep Logisim and binary artifacts byte-stable in Git
+*.circ -text
+*.circ diff
+*.hex -text
+*.jar binary
+*.exe binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+*.pdf binary
+*.docx binary
+*.png binary

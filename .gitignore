@@ -1,0 +1,23 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.user
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Codex / temporary
+.codex/
+*.tmp
+*.bak
+
+# Test logs / generated scratch
+02_work/logs/**/*.log
